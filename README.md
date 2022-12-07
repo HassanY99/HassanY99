@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hassanyousuf1999@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/15UyieGY8xrOnrKhXeZ_pondiRDXmUJap/view))
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/15UyieGY8xrOnrKhXeZ_pondiRDXmUJap/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

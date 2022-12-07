@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hassan Yusuf</h1>
 <h3 align="center">I am a passionate software developer from NYC.</h3>
 
-- 🔭 I’m currently working on [projects within the company using my java expertise. And on the side, I have also had a chance to build my own application, the password manager.](https://github.com/HassanY99/Password-Manager-App)
+- 🔭 I’m currently working on projects within the company where I am working as a Java Developer. Recently I also have had a chance to build my own application, the [Password Manager.](https://github.com/HassanY99/Password-Manager-App)
 
-- 👯 I’m looking to collaborate on **further projects where i can use my current skills of Java, Javascript, Spring Boot, Mysql, NodeJs, AngularJs and more.**
+- 👯 I’m looking to collaborate on **further projects where i can use my current skills of Java, Javascript, Spring Boot, MySql, NodeJs, AngularJs and more.**
 
-- 👨‍💻 All of my projects are available at [https://hassany99.github.io/React-Portfolio/](https://hassany99.github.io/React-Portfolio/)
+- 👨‍💻 Some of my projects are available on my portfolio at [https://hassany99.github.io/React-Portfolio/](https://hassany99.github.io/React-Portfolio/)
 
-- 💬 Ask me about **Java, Spring Boot, Spring MVC, Spring Security, MySql, AngularJs and ReactJs.**
+- 💬 Ask me about **Java, Spring Boot, Spring MVC, Spring Security, MySql, Javascript, NodeJs, ExpressJs, MongoDb, AngularJs and ReactJs.**
 
 - 📫 How to reach me **hassanyousuf1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/hassan-yusuf-35a928214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hassan-yusuf-35a928214/" height="30" width="40" /></a>
+<a href="https://github.com/in/github.com/hassany99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="www.github.com/hassany99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

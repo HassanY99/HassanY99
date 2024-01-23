@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Yusuf</h1>
 <h3 align="center">I am a passionate software developer from NYC.</h3>
 
-- 🔭 I’m currently working on projects within the company where I am working as a Java Developer. Recently I also have had a chance to build my own application, the [Password Manager.](https://github.com/HassanY99/Password-Manager-App)
+- 🔭 I’m currently working on projects within the company where I am working as a Software Engineer. Recently I also have had a chance to build my own application, the [Password Manager.](https://github.com/HassanY99/Password-Manager-App)
 
 - 👯 I’m looking to collaborate on **further projects where i can use my current skills of Java, Javascript, Spring Boot, Mysql, NodeJs, AngularJs and more.**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on projects within the company where I am working as a Software Engineer. Recently I also have had a chance to build my own application, the [Password Manager.](https://github.com/HassanY99/Password-Manager-App)
 
-- 👯 I’m looking to collaborate on **further projects where i can use my current skills of Java, Javascript, Spring Boot, Mysql, NodeJs, AngularJs and more.**
+- 👯 I’m looking to collaborate on **further projects where i can use my current skills of Java, Javascript, Python, Spring Boot, Mysql, NodeJs, AngularJs and more.**
 
 - 👨‍💻 Some of my projects are available on my [Portfolio](https://hassancodes.com/)
 
